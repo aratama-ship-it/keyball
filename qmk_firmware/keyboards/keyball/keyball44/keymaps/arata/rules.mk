@@ -11,12 +11,12 @@ COMMAND_ENABLE = no
 
 # ここから“ONにしたい機能”
 MIDI_ENABLE = yes        # USB-MIDIを有効化（MI_ のキーコードが使える）
-#MIDI_ADVANCED = yes     # 上級APIを使うなら。まずは不要にして様子見
+#MIDI_ADVANCED = no     # 上級APIを使うなら。まずは不要にして様子見
 
 TAP_DANCE_ENABLE = no   # タップ回数で別動作
 COMBO_ENABLE = no       # 複数キー同時で別キー
 CAPS_WORD_ENABLE = yes   # Caps Word
-LEADER_ENABLE = yes      # Leader key
+LEADER_ENABLE = no      # Leader key
 KEY_OVERRIDE_ENABLE = no # 例: Shift+数字を別記号に
 UNICODEMAP_ENABLE = no  # 絵文字/記号をマップで出す
 AUTO_SHIFT_ENABLE = no  # 長押しでShift版を自動入力
