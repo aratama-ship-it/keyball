@@ -30,3 +30,4 @@ AUDIO_ENABLE = no        # ブザー等がなければNO推奨
 SPACE_CADET_ENABLE = no
 GRAVE_ESC_ENABLE = no
 MAGIC_ENABLE = no
+NKRO_ENABLE = no
