@@ -19,7 +19,7 @@ CAPS_WORD_ENABLE = yes   # Caps Word
 LEADER_ENABLE = yes      # Leader key
 KEY_OVERRIDE_ENABLE = no # 例: Shift+数字を別記号に
 UNICODEMAP_ENABLE = no  # 絵文字/記号をマップで出す
-AUTO_SHIFT_ENABLE = yes  # 長押しでShift版を自動入力
+AUTO_SHIFT_ENABLE = no  # 長押しでShift版を自動入力
 ONESHOT_ENABLE = no     # One-shot 修飾キー
 
 # 不要ならOFF（容量節約）
