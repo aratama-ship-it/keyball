@@ -18,7 +18,7 @@ COMBO_ENABLE = no       # 複数キー同時で別キー
 CAPS_WORD_ENABLE = yes   # Caps Word
 LEADER_ENABLE = yes      # Leader key
 KEY_OVERRIDE_ENABLE = no # 例: Shift+数字を別記号に
-UNICODEMAP_ENABLE = yes  # 絵文字/記号をマップで出す
+UNICODEMAP_ENABLE = no  # 絵文字/記号をマップで出す
 AUTO_SHIFT_ENABLE = yes  # 長押しでShift版を自動入力
 ONESHOT_ENABLE = no     # One-shot 修飾キー
 
